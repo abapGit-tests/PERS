@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PERS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PERS>
+    <PERS_REG>
+     <PERS_KEY>ZTEST</PERS_KEY>
+     <DEFAULT_FL>X</DEFAULT_FL>
+    </PERS_REG>
+    <PERS_REG_TEXT>
+     <LANG>E</LANG>
+     <PERS_KEY>ZTEST</PERS_KEY>
+     <TEXT>test</TEXT>
+    </PERS_REG_TEXT>
+   </PERS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
